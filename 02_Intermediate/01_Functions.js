@@ -41,8 +41,8 @@
 
 // Five : Example Of Rest Operator Using Function :
 
-function Pack(...n){
-    return n;
-}
+// function Pack(...n){
+//     return n;
+// }
 
-console.log(Pack(120,20,60,340)) 
+// console.log(Pack(120,20,60,340)) 
