@@ -1,2 +1,2 @@
 # JavaScript
-A Practice JavaScript Repo
+JavaScript Revision.
