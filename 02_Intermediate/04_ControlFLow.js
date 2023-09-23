@@ -30,3 +30,8 @@
 // else{
 //     console.log('Temperature is Low.')
 // }
+
+// Truthy And Falsy Values :
+
+// Falsy Values ---- false, 0, -0, "", null, NaN, Undefined.
+// Rest all are truthy values ---- "0", 'false', " ", [], {}, function(){}
