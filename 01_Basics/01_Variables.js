@@ -1,5 +1,7 @@
 // Introduction To Variables :
 
+// Variables : Variables are containers for storing data/vales. In JavaScript, we can use "let" and "var" for declaring variables.
+
 // Declaring Variables :
 
 var accountId = 12345611234; // Not Recommended Anymore.
@@ -15,11 +17,5 @@ emailId = 'ghost@proton.me'; // Not Recommended.
 const password = "@qwerty1fgh";
 
 // password = 34212356; // Re-assignment to const type is not allowed.
-
-// console.log(accountId);
-// console.log(phoneNumber);
-// console.log(password);
-
-// OR
 
 console.table([accountId, phoneNumber, password, emailId, accountState])
