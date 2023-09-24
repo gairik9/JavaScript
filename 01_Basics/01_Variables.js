@@ -16,6 +16,6 @@ emailId = 'ghost@proton.me'; // Not Recommended.
 
 const password = "@qwerty1fgh";
 
-// password = 34212356; // Re-assignment to const type is not allowed.
+password = 34212356; // Error. Re-assignment to const type is not allowed.
 
 console.table([accountId, phoneNumber, password, emailId, accountState])
