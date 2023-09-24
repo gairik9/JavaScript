@@ -2,11 +2,11 @@
 
 "use strict"; //Treats All JS Code As Newer Version.
 
-let accNumber = 112345112344; // Number Type
+let accNumber = 112345112344; // Number Type.
 
-let accHolderName = 'John Wick';
+let accHolderName = 'John Wick'; // String Type.
 
-let isAccActive = true;
+let isAccActive = true; // Boolean Type.
 
 console.table([accNumber, accHolderName, isAccActive])
 
