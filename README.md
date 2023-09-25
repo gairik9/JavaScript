@@ -43,5 +43,16 @@ H. ES13 - 2022
 
 - Refer Code Files For Examples.
 
+**What is the use of the "typeof" operator**
+
+- In JavaScript we can use the “typeof” operator in order to know the type of a variable.
+
+- Example : 
+
+	Let name = “Elon”;
+
+	console.log(typeof name);
+
+
 
 
