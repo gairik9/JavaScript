@@ -1,31 +1,13 @@
 // JavaScript Numbers And Math :
 
-// Numbers :
+let score = 100;
+// console.log(typeof score);
 
-// const score = 400;
-// console.log(score);
 
-// const balance = new Number(100);
-// console.log(balance);
-// console.log(typeof(balance.toString()));
+// JS Math Object :
+// Definition : The JavaScript Math object allows you to perform mathematical tasks on numbers.
 
-// const marks = 20.991;
-// console.log(marks.toFixed(2));
+// Examples : 
 
-// const num = 100000000;
-// console.log(num.toLocaleString())
-// console.log(num.toLocaleString('en-IN'))
-
-// Math :
-
-// console.log(Math.abs(-20));
-// console.log(Math.round(3.14));
-// console.log(Math.ceil(3.14));
-// console.log(Math.floor(3.14));
-
-// console.log(Math.random());
-// console.log(Math.random()*10);
-// console.log(Math.round(Math.random()*10));
-console.log(Math.round((Math.random()*10)+1));
-
+console.log(Math.round(9.841)); // Rounds A Number To It's Nearest Whole Number.
 
