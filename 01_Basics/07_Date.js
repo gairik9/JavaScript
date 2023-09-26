@@ -1,15 +1,15 @@
 // JavaScript Dates :
 
 let date = new Date();
-// console.log(date);
-// console.log(date.toString());
-// console.log(date.toLocaleDateString());
-// console.log(date.toDateString());
-// console.log(date.toISOString());
+console.log(date);
+console.log(date.toString());
+console.log(date.toLocaleDateString());
+console.log(date.toDateString());
+console.log(date.toISOString());
 console.log(date.toLocaleString());
-// console.log(date.toJSON());
+console.log(date.toJSON());
 
-// Get year, month, and day part from the date :
+// Get The Year, Month & Day Part From Date :
 let year = date.toLocaleString("default", { year: "numeric" });
 let month = date.toLocaleString("default", { month: "short" });
 let day = date.toLocaleString("default", { day: "2-digit" });
