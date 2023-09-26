@@ -53,6 +53,11 @@ H. ES13 - 2022
 
 	console.log(typeof name);
 
+**Type Converions VS Coercion**
+
+- Type Cocercion is the automatic or implicit converion of value of one type into another.
+
+- Type Converion and Coercion both are similar except that type coercion is implicit and type converion can be both implicit nd explicit.
 
 
 
